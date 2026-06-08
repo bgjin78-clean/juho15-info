@@ -122,6 +122,33 @@ footer a{
 color:#fff;
 text-decoration:none;
 }
+.category-grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+gap:20px;
+margin-top:20px;
+}
+
+.category-card{
+background:#fff;
+padding:20px;
+border-radius:12px;
+box-shadow:0 2px 10px rgba(0,0,0,0.05);
+}
+
+.category-card h3{
+margin-bottom:15px;
+color:#1e3a5f;
+}
+
+.category-card ul{
+padding-left:18px;
+}
+
+.category-card li{
+margin-bottom:10px;
+}
+
 </style>
 </head>
 <body>
@@ -193,39 +220,65 @@ text-decoration:none;
 </section>
 
 <section>
-<h2 class="section-title">최신 정보 전체보기</h2>
-<ul class="article-list">
-<li><a href="/basic-pension.html">2026년 기초연금 수급자격과 신청방법 총정리</a></li>
-<li><a href="/energy-voucher.html">에너지바우처 신청방법과 지원대상 총정리</a></li>
-<li><a href="/senior-job.html">노인일자리 신청방법과 참여조건 총정리</a></li>
-<li><a href="/health-insurance-refund.html">건강보험 환급금 조회방법 총정리</a></li>
-<li><a href="/electricity-discount.html">전기요금 할인 신청방법과 대상자 안내</a></li>
-<li><a href="/telecom-discount.html">통신비 감면 대상자와 신청방법 정리</a></li>
-<li><a href="/longterm-care.html">장기요양보험 등급 신청방법 총정리</a></li>
-<li><a href="/basic-livelihood.html">기초생활수급자 혜택과 신청방법 정리</a></li>
-<li><a href="/national-pension.html">국민연금 예상수령액 조회방법 정리</a></li>
-<li><a href="/health-insurance-premium.html">건강보험료 계산 방법 쉽게 정리</a></li>
-<li><a href="/housing-benefit.html">주거급여 신청방법과 지원금액 총정리</a></li>
-<li><a href="/education-benefit.html">교육급여 신청대상과 혜택 안내</a></li>
-<li><a href="/near-poor-benefits.html">차상위계층 확인방법과 혜택 정리</a></li>
-<li><a href="/disability-pension.html">장애인연금 신청방법 총정리</a></li>
-<li><a href="/disability-allowance.html">장애수당 지원대상 안내</a></li>
-<li><a href="/national-scholarship.html">국가장학금 신청방법 정리</a></li>
-<li><a href="/single-parent-support.html">한부모가족 지원금 신청 안내</a></li>
+<h2 class="section-title">주제별 정보 모음</h2>
+
+<div class="category-grid">
+
+<div class="category-card">
+<h3>💰 정부지원금·장려금</h3>
+<ul>
 <li><a href="/earned-income-credit.html">근로장려금 신청방법 총정리</a></li>
 <li><a href="/child-tax-credit.html">자녀장려금 신청자격 안내</a></li>
+<li><a href="/energy-voucher.html">에너지바우처 신청방법과 지원대상</a></li>
 <li><a href="/youth-savings-account.html">청년내일저축계좌 신청방법</a></li>
-<li><a href="/medical-checkup.html">국가건강검진 대상자 조회방법과 검진항목 정리</a></li>
-<li><a href="/cancer-screening.html">국가암검진 대상자와 검사종류 안내</a></li>
-<li><a href="/unemployment-benefit.html">실업급여 신청조건과 신청방법 총정리</a></li>
-<li><a href="/employment-insurance.html">고용보험 가입이력 조회방법 정리</a></li>
-<li><a href="/retirement-pension.html">퇴직연금 조회방법과 종류 쉽게 정리</a></li>
-<li><a href="/year-end-tax-refund.html">연말정산 환급금 조회방법과 확인사항</a></li>
-<li><a href="/car-tax-refund.html">자동차세 환급 신청방법 정리</a></li>
-<li><a href="/insurance-claim.html">실손보험 청구방법과 준비서류 정리</a></li>
-<li><a href="/credit-score.html">신용점수 조회방법과 관리방법 정리</a></li>
-<li><a href="/small-business-support.html">소상공인 지원금 확인방법과 신청 전 체크사항</a></li>
+<li><a href="/small-business-support.html">소상공인 지원금 확인방법</a></li>
+<li><a href="/unemployment-benefit.html">실업급여 신청방법 총정리</a></li>
+<li><a href="/national-scholarship.html">국가장학금 신청방법 정리</a></li>
 </ul>
+</div>
+
+<div class="category-card">
+<h3>🏠 복지혜택·생활지원</h3>
+<ul>
+<li><a href="/basic-livelihood.html">기초생활수급자 혜택과 신청방법</a></li>
+<li><a href="/housing-benefit.html">주거급여 신청방법과 지원금액</a></li>
+<li><a href="/education-benefit.html">교육급여 신청대상과 혜택</a></li>
+<li><a href="/near-poor-benefits.html">차상위계층 확인방법과 혜택</a></li>
+<li><a href="/single-parent-support.html">한부모가족 지원금 신청 안내</a></li>
+<li><a href="/disability-allowance.html">장애수당 지원대상 안내</a></li>
+<li><a href="/disability-pension.html">장애인연금 신청방법 총정리</a></li>
+<li><a href="/telecom-discount.html">통신비 감면 신청방법</a></li>
+<li><a href="/electricity-discount.html">전기요금 할인 신청방법</a></li>
+</ul>
+</div>
+
+<div class="category-card">
+<h3>👴 연금·노후정보</h3>
+<ul>
+<li><a href="/basic-pension.html">기초연금 수급자격과 신청방법</a></li>
+<li><a href="/national-pension.html">국민연금 예상수령액 조회방법</a></li>
+<li><a href="/retirement-pension.html">퇴직연금 조회방법</a></li>
+<li><a href="/senior-job.html">노인일자리 신청방법</a></li>
+<li><a href="/longterm-care.html">장기요양보험 등급 신청방법</a></li>
+</ul>
+</div>
+
+<div class="category-card">
+<h3>🏥 건강보험·생활금융</h3>
+<ul>
+<li><a href="/health-insurance-refund.html">건강보험 환급금 조회방법</a></li>
+<li><a href="/health-insurance-premium.html">건강보험료 계산방법</a></li>
+<li><a href="/medical-checkup.html">국가건강검진 신청방법</a></li>
+<li><a href="/cancer-screening.html">국가암검진 대상자 조회</a></li>
+<li><a href="/insurance-claim.html">실손보험 청구방법</a></li>
+<li><a href="/credit-score.html">신용점수 조회방법</a></li>
+<li><a href="/car-tax-refund.html">자동차세 환급 신청방법</a></li>
+<li><a href="/year-end-tax-refund.html">연말정산 환급금 조회</a></li>
+<li><a href="/employment-insurance.html">고용보험 가입이력 조회</a></li>
+</ul>
+</div>
+
+</div>
 </section>
 
 <div style="margin:30px 0;">
