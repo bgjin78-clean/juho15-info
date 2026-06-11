@@ -155,6 +155,50 @@ padding-left:18px;
 margin-bottom:10px;
 }
 
+.category-section{
+margin-top:40px;
+}
+
+.category-section h2{
+margin-bottom:25px;
+}
+
+.category-grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+gap:20px;
+}
+
+.category-card{
+background:#ffffff;
+padding:20px;
+border-radius:12px;
+box-shadow:0 2px 8px rgba(0,0,0,0.08);
+}
+
+.category-card h3{
+margin-top:0;
+margin-bottom:15px;
+color:#1f3a5f;
+}
+
+.category-card ul{
+padding-left:20px;
+margin:0;
+}
+
+.category-card li{
+margin-bottom:10px;
+}
+
+.category-card a{
+text-decoration:none;
+color:#333;
+}
+
+.category-card a:hover{
+color:#0b63ce;
+}
 </style>
 </head>
 <body>
@@ -225,8 +269,9 @@ margin-bottom:10px;
 <strong>안내:</strong> 본 사이트의 정보는 이해를 돕기 위한 일반 정보입니다. 실제 신청 가능 여부와 지원금액은 정부기관, 지자체, 공단의 최신 안내를 확인하시기 바랍니다.
 </section>
 
-<section>
-<h2 class="section-title">주제별 정보 모음</h2>
+<section class="category-section">
+
+<h2>📚 카테고리별 정보 모음</h2>
 
 <div class="category-grid">
 
@@ -285,6 +330,7 @@ margin-bottom:10px;
 </div>
 
 </div>
+
 </section>
 
 <div style="margin:30px 0;">
