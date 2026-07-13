@@ -1,11 +1,11 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """One-time site template builder for juho15.com article pages."""
 import re
 import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SITE = "https://juho15.com"
+SITE = "https://www.juho15.com"
 UPDATE_DATE = "2026년 6월 29일"
 AD_CLIENT = "ca-pub-5008748977607037"
 AD_SLOT_TOP = "2318766489"
