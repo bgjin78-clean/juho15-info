@@ -16,11 +16,12 @@ background:#1f3a5f;
 color:white;
 padding:28px 20px;
 }
-header h1{
+header .site-logo{
 margin:0;
 font-size:28px;
+font-weight:700;
 }
-header h1 a{
+header .site-logo a{
 color:white;
 text-decoration:none;
 }
@@ -69,6 +70,15 @@ padding:22px;
 border-radius:12px;
 margin:25px 0;
 box-shadow:0 2px 8px rgba(0,0,0,0.05);
+}
+.search-box h1{
+margin:0 0 8px;
+font-size:24px;
+color:#1f3a5f;
+}
+.search-box > p{
+margin:0 0 14px;
+color:#555;
 }
 .search-box input{
 width:100%;
@@ -327,7 +337,7 @@ grid-template-columns:1fr;
 .article-content{
 padding:20px 18px;
 }
-header h1{
+header .site-logo{
 font-size:24px;
 }
 .article-content h1{

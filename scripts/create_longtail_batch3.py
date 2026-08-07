@@ -448,7 +448,7 @@ def build_page(a):
 
 <header>
 <div class="container">
-<h1><a href="/">주호15 인포</a></h1>
+<p class="site-logo"><a href="/">주호15 인포</a></p>
 <p class="tagline">정부지원금 · 복지혜택 · 연금 · 건강보험 · 생활정보</p>
 </div>
 </header>
