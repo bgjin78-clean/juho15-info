@@ -12,6 +12,7 @@
     { title: "청년내일저축계좌", url: "/youth-savings-account.html", keywords: "청년내일저축계좌 청년" },
     { title: "청년내일저축 자격", url: "/youth-savings-eligibility.html", keywords: "청년내일저축계좌 소득 연령 자격" },
     { title: "소상공인 지원금", url: "/small-business-support.html", keywords: "소상공인 지원금" },
+    { title: "2026 소상공인 정책자금", url: "/small-business-policy-loan-2026.html", keywords: "소상공인 정책자금 대출 직접대출 대리대출 대환 소진공" },
     { title: "실업급여 신청방법", url: "/unemployment-benefit.html", keywords: "실업급여 고용보험" },
     { title: "실업급여 신청 전 서류", url: "/unemployment-documents.html", keywords: "실업급여 서류 체크리스트 이직확인서" },
     { title: "자발적 퇴사 시 실업급여", url: "/unemployment-voluntary.html", keywords: "자발적 퇴사 실업급여 사직" },
