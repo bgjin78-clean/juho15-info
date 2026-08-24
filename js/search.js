@@ -9,6 +9,8 @@
     { title: "자녀장려금 2026 일정", url: "/child-tax-2026.html", keywords: "자녀장려금 2026 신청" },
     { title: "근로장려금 환수 대처", url: "/earned-income-repayment.html", keywords: "근로장려금 환수 오지급" },
     { title: "에너지바우처 신청방법", url: "/energy-voucher.html", keywords: "에너지바우처 난방 냉방" },
+    { title: "예금 이자 계산", url: "/deposit-interest.html", keywords: "예금 이자 세후 단리 복리 금리" },
+    { title: "적금 이자 계산", url: "/savings-interest.html", keywords: "적금 이자 월납입 세후 만기" },
     { title: "청년내일저축계좌", url: "/youth-savings-account.html", keywords: "청년내일저축계좌 청년" },
     { title: "청년내일저축 자격", url: "/youth-savings-eligibility.html", keywords: "청년내일저축계좌 소득 연령 자격" },
     { title: "소상공인 지원금", url: "/small-business-support.html", keywords: "소상공인 지원금" },

@@ -194,6 +194,29 @@ border-bottom:none;
 padding-bottom:0;
 font-size:18px;
 }
+.tool-box{
+background:#1f3a5f;
+color:#fff;
+border-radius:12px;
+padding:20px 22px;
+margin:24px 0;
+}
+.tool-box p{
+margin:0 0 10px;
+}
+.tool-box p:last-child{
+margin-bottom:0;
+}
+.tool-box a{
+display:inline-block;
+margin-top:6px;
+background:#fff;
+color:#1f3a5f;
+font-weight:700;
+text-decoration:none;
+padding:10px 16px;
+border-radius:8px;
+}
 .related-articles{
 background:white;
 border-radius:12px;
