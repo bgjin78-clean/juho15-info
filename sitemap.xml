@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.juho15.com/</loc><lastmod>2026-08-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.juho15.com/</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://www.juho15.com/about.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
   <url><loc>https://www.juho15.com/privacy.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
   <url><loc>https://www.juho15.com/contact.html</loc><lastmod>2026-07-13</lastmod><changefreq>monthly</changefreq><priority>0.4</priority></url>
@@ -76,4 +76,14 @@
   <url><loc>https://www.juho15.com/small-business-policy-loan-2026.html</loc><lastmod>2026-08-14</lastmod><changefreq>weekly</changefreq><priority>0.95</priority></url>
   <url><loc>https://www.juho15.com/deposit-interest.html</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
   <url><loc>https://www.juho15.com/savings-interest.html</loc><lastmod>2026-08-24</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.juho15.com/year-end-preview.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.juho15.com/parental-leave-benefit.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.juho15.com/parent-benefit.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.juho15.com/heating-cost-support.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.juho15.com/youth-rent-support.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.juho15.com/youth-leap-account.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.juho15.com/flu-vaccine-free.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.juho15.com/emergency-welfare.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.juho15.com/naeil-learning-card.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://www.juho15.com/kpass-transport-refund.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.85</priority></url>
 </urlset>

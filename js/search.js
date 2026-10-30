@@ -1,5 +1,15 @@
 (function () {
   var articles = [
+    { title: "연말정산 미리보기로 11~12월에 환급 늘리는 법", url: "/year-end-preview.html", keywords: "연말정산 미리보기 11월 12월 환급 카드 연금저축 IRP" },
+    { title: "육아휴직급여 신청방법과 월 수령액 확인", url: "/parental-leave-benefit.html", keywords: "육아휴직급여 육아휴직 신청 수령액 고용24 6+6" },
+    { title: "부모급여·첫만남이용권·아동수당 한 번에 정리", url: "/parent-benefit.html", keywords: "부모급여 첫만남이용권 아동수당 출산 지원금 행복출산" },
+    { title: "겨울철 난방비 지원 총정리: 에너지바우처·등유·연탄", url: "/heating-cost-support.html", keywords: "난방비 지원 등유바우처 연탄쿠폰 도시가스 감면 겨울" },
+    { title: "청년 월세 지원 신청 자격과 준비 서류", url: "/youth-rent-support.html", keywords: "청년 월세 지원 월세 특별지원 청년 주거 복지로 자격" },
+    { title: "청년도약계좌 조건과 만기 수령액 계산", url: "/youth-leap-account.html", keywords: "청년도약계좌 조건 만기 수령액 정부기여금 비과세 중도해지" },
+    { title: "독감 무료 예방접종 대상과 지정의료기관 찾기", url: "/flu-vaccine-free.html", keywords: "독감 무료 예방접종 인플루엔자 대상 65세 어린이 임신부 지정의료기관" },
+    { title: "긴급복지지원 신청 대상과 생계비 지원 받는 법", url: "/emergency-welfare.html", keywords: "긴급복지지원 생계비 긴급지원 129 위기 실직 의료비" },
+    { title: "국민내일배움카드 발급 조건과 훈련비 지원 사용법", url: "/naeil-learning-card.html", keywords: "국민내일배움카드 내일배움카드 발급 훈련비 고용24 국비지원" },
+    { title: "K-패스 교통비 환급 조건과 가입 방법", url: "/kpass-transport-refund.html", keywords: "K패스 케이패스 교통비 환급 대중교통 알뜰교통카드 청년 저소득" },
     { title: "근로장려금 신청방법", url: "/earned-income-credit.html", keywords: "근로장려금 장려금 홈택스" },
     { title: "근로장려금 지급이 늦을 때", url: "/earned-income-delay.html", keywords: "근로장려금 지급 지연 입금 심사" },
     { title: "근로장려금 2026 신청기간", url: "/earned-income-2026.html", keywords: "근로장려금 2026 신청기간 반기 정기" },
